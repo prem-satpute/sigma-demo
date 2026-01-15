@@ -7,3 +7,6 @@ Shradha Khapra
 # student 
 Sigm Demo
 
+# Demo
+this is demo for git and GitHub
+
