@@ -1,12 +1,3 @@
-# sigma-demo
-This is Demo for Git &amp; Github.
+# Sigma Demo
 
-# Teacher 
-Shradha Khapra
-
-# student 
-Sigm Demo
-
-# Demo
-this is demo for git and GitHub
-
+welcome to page
